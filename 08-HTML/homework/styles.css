@@ -1,0 +1,41 @@
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+body{
+    background-color: #ffdd90;
+    background-image :url("https://www.xtrafondos.com/wallpapers/edificios-ciudad-de-noche-3183.jpg");
+}
+h1{
+    color: chartreuse;
+}
+h3,h4{
+    color: coral;
+}
+img{
+    width: 400px;
+}
+#spanId{
+    color: aqua;
+}
+.divClass{
+     text-align:center;
+    }
+#thirdDiv{
+
+    display: -webkit-flex;
+    display:flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    /* width: 500px;
+    height: 500px; */
+    /* background-color: crimson; */
+    padding:  0px;
+    border:15px dotted blueviolet;
+}
+#spanId{
+    font-size: 18px;margin: 50px;
+}
